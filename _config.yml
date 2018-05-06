@@ -2,8 +2,8 @@ title:             Clean Blog
 email:             sb5449@nyu.edu
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://SonghaBan.github.io"
+baseurl:           "http://SonghaBan.github.io/SonghaBan.github.io"
+url:               "http://SonghaBan.github.io/SonghaBan.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
